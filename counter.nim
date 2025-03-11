@@ -9,3 +9,4 @@ let duration = endTime - startTime
 echo "Time taken: ", duration, " seconds"
 echo "Done counting to 1,000,000"
 
+echo("hellow world from nim")
